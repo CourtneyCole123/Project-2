@@ -18,6 +18,8 @@ Our team worked through this together during class time on Tuesday.
 
 # Part 2: Create a Jupyter Notebook to Transform the Data & Load it into SQL 🦋 #
 
+Please utilize the Jupyter Notebook entitled Project_2_Cleaning
+
 <pre> Notes: We exported our clean data into a csv to import into SQL. We also stored our Data in MongoDB. 
 We also utilized https://bobbyhadz.com/blog/python-get-number-without-decimal-places to help with truncating. </pre>
 
