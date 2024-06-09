@@ -1,4 +1,4 @@
-## Project 2: Extract, Transform, & Load ##
+### Project 2: Extract, Transform, & Load ###
 
 # Part 1: Create a Jupyter Notebook to Collect the Data 🔍 #
 
